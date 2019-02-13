@@ -17,8 +17,8 @@
 
 # These are the lists
 fav_colors = ['blue', 'orange', 'green']
-friends_age = ['29', '30', '25', '27']
-heads_coin_flip = ['Yes', 'Yes', 'No', 'Yes', 'No']
+friends_age = [29, 30, 25, 27]
+heads_coin_flip = ['yes', 'yes', 'no', 'yes', 'no']
 favourite_artists = ['Kanye West', 'Jay-Z', 'Stormzy']
 
 
@@ -38,4 +38,4 @@ city_population = {'Toronto': '2.732 million',
 names_ages = {'Usheer': 29,
               'Karan': 30,
               'Ashton': 25,
-               'Nick': 27}                   
+               'Nick': 27}
