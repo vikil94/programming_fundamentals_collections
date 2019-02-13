@@ -20,8 +20,8 @@ phone_rows = ['123', '456', '789', '*0#']
 
 print(phone_rows)
 
-country_info = [ {'Madagascar':'Africa', 'island':'Yes'},
-                 {'Zimbabwe':'Africa', 'island':'No'},
-                 {'Germany':'Europe', 'island':'No'} ]
+country_info = [ {'name':'Madagascar', 'continent' :'Africa', 'island': True},
+                 {'name':'Zimbabwe', 'continent': 'Africa', 'island': False},
+                 {'name':'Germany', 'continent': 'Europe', 'island': False} ]
 
 print(country_info)
