@@ -16,7 +16,7 @@ print("The last element in the list {}".format(fav_colors[-1]))
 
 from excercise0 import city_population
 # this will add a new item to your dictionary
-city_population['New York'] = '8.623 million'
+city_population['New York'] = 70000000
 print(city_population)
 
 from excercise0 import heads_coin_flip

@@ -34,6 +34,7 @@ favourite_artists.remove('Kanye West')
 print(favourite_artists)
 
 from excercise0 import city_population
-city_population['New York'] = '0'
+city_population['New York'] = 0
+
 
 print(city_population)

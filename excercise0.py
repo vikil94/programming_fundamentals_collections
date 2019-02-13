@@ -31,11 +31,11 @@ fav_movie = {'Sky-High': 2005,
              'Shawshank Redemption': 1994,
              'Lion King': 1998 }
 
-city_population = {'Toronto': '2.732 million',
-                   'Chicago': '2.716 million',
-                   'Los Angeles': '4 million'}
+city_population = {'Toronto': 2732000,
+                  'Chicago': 2716000,
+                   'Los Angeles': 4000000}
 
 names_ages = {'Usheer': 29,
               'Karan': 30,
               'Ashton': 25,
-               'Nick': 27}
+              'Nick': 27}
