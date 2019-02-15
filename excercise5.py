@@ -15,3 +15,21 @@ print(sum_total)
 
 
 from excercise0 import names_ages
+
+for name, age in names_ages.items():
+    if age > 30:
+        print('Dang, {} is old!'.format(name))
+    else:
+        print("Good, {} isn't old yet".format(name))
+
+from excercise0 import fav_colors
+print(fav_colors[-2:])
+
+for name, age in names_ages.items():
+    names_ages[name] = age + 1
+
+print(names_ages)
+
+fav_colors.append("red")
+fav_colors.append("pink")
+print(fav_colors)

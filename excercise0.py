@@ -36,6 +36,6 @@ city_population = {'Toronto': 2732000,
                    'Los Angeles': 4000000}
 
 names_ages = {'Usheer': 29,
-              'Karan': 30,
-              'Ashton': 25,
-              'Nick': 27}
+              'Karan' : 30,
+             'Ashton' : 25,
+              'Nick' : 27}
